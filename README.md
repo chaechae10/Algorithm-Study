@@ -9,7 +9,7 @@
 
 ## 🚀 기술 스택
 - **Java 17**
-- **Gradle** (빌드 및 의존성 관리)
-- IDE: IntelliJ IDEA / VS Code  
+- **Gradle** 
+- IDE: IntelliJ IDEA 
 
 ---
